@@ -1,15 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Artyom Guryanov",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
+	"author": "Artyom Guryanov",
+  "description": "A demo for the api freecodecamp course",
 	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.14.0"
 	}
 }
