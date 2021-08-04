@@ -13,6 +13,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
+  "license": "MIT",
 	"scripts": {
 		"start": "node server.js"
 	},
