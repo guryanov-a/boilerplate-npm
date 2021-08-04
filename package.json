@@ -1,8 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Artyom Guryanov",
-  "description": "A demo for the api freecodecamp course",
-  "keywords": ["fcc", "npm", "api", "artyom-guryanov"],
+	"description": "A demo for the api freecodecamp course",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"api",
+		"artyom-guryanov"
+	],
 	"main": "server.js",
 	"repository": {
 		"type": "git",
