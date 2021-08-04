@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "version": "1.0.0",
+	"version": "1.0.0",
 	"author": "Artyom Guryanov",
 	"description": "A demo for the api freecodecamp course",
 	"keywords": [
@@ -14,11 +14,12 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-  "license": "MIT",
+	"license": "MIT",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.14.0"
 	}
 }
